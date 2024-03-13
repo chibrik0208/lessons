@@ -1,2 +1,2 @@
-puts 'hello,world!'
-puts 'Goodbye,world'
+puts 'dmitri,bye!'
+p 'dmitri hi!'
